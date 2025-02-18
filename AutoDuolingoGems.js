@@ -1,15 +1,3 @@
-// ==UserScript==
-// @name         Duolingo Gem Farmer
-// @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Tự động thu thập gem trên Duolingo - Được làm bởi 1F1XDRAGO
-// @author       1F1XDRAGO
-// @match        https://*.duolingo.com/*
-// @grant        none
-// @license      MIT
-// @icon         https://static.wikia.nocookie.net/duolingo/images/f/f4/Gems-chest.png.png
-// ==/UserScript==
-
 (function () {
     "use strict";
 
