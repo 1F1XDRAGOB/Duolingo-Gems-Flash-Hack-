@@ -7,7 +7,6 @@
 </head>
 <body>
     <div class="container">
-        <h1>Duolingo Gem Farmer</h1>
         <p><strong>Author:</strong> 1F1XDRAGO</p>
         <p><strong>Version:</strong> 1.0</p>
         <p><strong>Description:</strong> This Tampermonkey userscript automates the process of collecting gems on Duolingo.</p>
