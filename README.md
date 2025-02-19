@@ -3,15 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Duolingo Gem Farmer</title>
+
 </head>
 <body>
-    <div class="container">
+    <div>
         <h1>Duolingo Gem Farmer</h1>
         <p><strong>Author:</strong> 1F1XDRAGO</p>
         <p><strong>Version:</strong> 1.0</p>
         <p><strong>Description:</strong> This Tampermonkey userscript automates the process of collecting gems on Duolingo.</p>
         <h2>Code:</h2>
-        <pre class="code">
+        <pre>
             // ==UserScript==
             // @name         Duolingo Gem Farmer
             // @namespace    http://tampermonkey.net/
@@ -374,115 +376,7 @@ function _0x1d27(_0x1be8a3, _0x5e9c0a) {
         _0x1d27(_0x1be8a3, _0x5e9c0a)
     );
 }
-function _0x42e9() {
-    const _0x4cda26 = [
-        "50%",
-        "stringify",
-        "transform\x200.2s\x20ease,\x20box-shadow\x200.2s\x20ease",
-        "inline-block",
-        "column",
-        "0\x208px\x2025px\x20",
-        "cookie",
-        "split",
-        "statusText",
-        "text",
-        "0\x204px\x2015px\x20rgba(255,\x2071,\x2087,\x200.3)",
-        "16px",
-        "status",
-        "10px",
-        "open",
-        "2303195oLieWw",
-        "pointer",
-        "\x200%,\x20",
-        "body",
-        "60px",
-        "danger",
-        "style",
-        "transform",
-        "center",
-        "Mozilla/5.0",
-        "createElement",
-        "#FFFFFF",
-        "none",
-        "#1DA462",
-        "20px",
-        "2203192mrNBRs",
-        ");\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-webkit-background-clip:\x20text;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-clip:\x20text;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20transparent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:\x201px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22>GEM\x20FARMER\x20PRO</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20",
-        "\x20100%)",
-        "map",
-        "rotate(0deg)",
-        "appendChild",
-        "trim",
-        "application/json",
-        "https://facebook.com/untitled.py",
-        "Hỗ\x20Trợ\x20❗",
-        "flex",
-        "<span\x20id=\x22statusText\x22>Chưa\x20hoạt\x20động</span>",
-        "mission",
-        "boxShadow",
-        "div",
-        "startsWith",
-        "100px",
-        "\x200%,\x20#CC2E3D\x20100%)",
-        "25px",
-        "logged_out_uuid",
-        "primary",
-        "14px",
-        "textContent",
-        "addEventListener",
-        "block",
-        "DỪNG\x20LẠI",
-        "18jETUDJ",
-        "translate(-50%,\x20-50%)",
-        "952167ziOCJS",
-        "2sVtmur",
-        "gemsCount",
-        "390mVzZfE",
-        "Đang\x20hoạt\x20động",
-        "entries",
-        "47110THgIcf",
-        "append",
-        "\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22gemCount\x22\x20style=\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2042px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20",
-        "translateY(-2px)",
-        "fixed",
-        "error",
-        "PATCH",
-        "15px",
-        "#003049",
-        "301729WrfHyB",
-        "gemPulse\x200.5s",
-        "head",
-        "104679OZoCHw",
-        "\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20gemPulse\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20transform:\x20scale(1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x2050%\x20{\x20transform:\x20scale(1.1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20scale(1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20#gemCount\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20gemPulse\x200.5s\x20ease-out;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20body\x20>\x20div[style*=\x22z-index:\x2010000\x22]\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20backdrop-filter:\x20blur(5px)\x20!important;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20",
-        "button",
-        "getElementById",
-        "Đang\x20farm\x20gems\x20đấy\x20bro\x20-\x20Bạn\x20có\x20chắc\x20chắn\x20muốn\x20thoát?",
-        "#FF4757",
-        "rotate(360deg)",
-        "gemCount",
-        "setItem",
-        "600",
-        "1395388jwWvde",
-        "0\x204px\x2015px\x20rgba(88,\x20204,\x202,\x200.3)",
-        "styles",
-        "12px\x2030px",
-        "transform\x200.3s\x20ease",
-        "Bearer\x20",
-        "display",
-        "BẮT\x20ĐẦU",
-        "events",
-        ";\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x204px\x2012px\x20rgba(88,\x20204,\x202,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x22>0</div>\x0a\x20\x20\x20\x20",
-        "find",
-        "linear-gradient(135deg,\x20",
-        "\x27Segoe\x20UI\x27,\x20system-ui",
-        "secondary",
-        "25px\x200",
-        "Lỗi\x20request:",
-        "background",
-    ];
-    _0x42e9 = function () {
-        return _0x4cda26;
-    };
+...
     return _0x42e9();
 }
 
